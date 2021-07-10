@@ -11,6 +11,23 @@
 > It is a light-weight syntax and helps to render many things (like images, links, headers, paragraphs, etc.).
 > *README.md is a special file which tells about your respository*
 
+## How to create a `README.md` file?
+> Headover to your repository.
+
+> Go to add *new file* tab and click *create new file*.
+
+> Give your file name as `README.md` and whoha, you have made your first README.md file under your repository.
+
+#### Demos
+
+1. Before Creating the repository:
+
+<img src="https://github.com/saswatsamal/markdownbasics/blob/main/IMG/create-readme.gif">
+
+2. After creating the repository:
+
+<img src="https://github.com/saswatsamal/markdownbasics/blob/main/IMG/create-readme-2.gif">
+
 # Syntax Guide
 Here’s an overview of Markdown syntax that you can use.
 
